@@ -3,11 +3,10 @@
 **Live News App Using Rest API with Searching Functionality**
 
 ## 🚀 Live Demo  
-👉 [View Portfolio](https://portfolio-website-dun-tau.vercel.app/)  
+👉 [View Live Demo](https://akhandsingh1911.github.io/NEWSAPP/)
 
-
-#  Screenshots![alt text](Screenshot.png)   
-
+## 🖼️ Screenshots  
+![alt text](Screenshot.png)
 
 ## 💡 About
 
@@ -15,16 +14,16 @@ NEWSAPP is a dynamic web application that fetches real-time news articles from v
 
 ## 🔧 Features
 
-- 🔍 Search news by keyword
-- 📂 Filter news by category
-- 🌐 Fetches data from multiple news sources
-- 🖥️ Responsive design for all devices
+- 🔍 Search news by keyword  
+- 📂 Filter news by category  
+- 🌐 Fetches data from multiple news sources  
+- 🖥️ Responsive design for all devices  
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
-- **API**: NewsAPI (or your chosen news API)
-- **Hosting**: GitHub Pages, Netlify, or Vercel
+- **Frontend**: HTML, CSS, JavaScript  
+- **API**: NewsAPI (or your chosen news API)  
+- **Hosting**: GitHub Pages, Netlify, or Vercel  
 
 ## 📥 Installation
 
@@ -32,4 +31,3 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/AKHANDSINGH1911/NEWSAPP.git
-
