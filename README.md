@@ -2,8 +2,7 @@
 
 **Live News App Using Rest API with Searching Functionality**
 
-![NewsApp Screenshot](![Uploading image.png…]()
-)
+![Logo](./public/images/Screenshot.png)
 
 ## 🚀 Live Demo
 
