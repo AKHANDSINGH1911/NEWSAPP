@@ -1,6 +1,6 @@
 const API_KEY = "3b06d3eb6a2b4feda1a5292bfcd9a07a";
 
-const url = "https://proxy.corsfix.com/?https://newsapi.org/v2/everything?q=";
+const url = "https://newsapi.org/v2/everything?q=";
 
 window.addEventListener("load", () => fetchNews("India"));
 
@@ -13,6 +13,7 @@ async function fetchNews(query) {
     const data = await res.json();
     bindData(data.articles);
 }
+
 
 function bindData(articles) {
     const cardsContainer = document.getElementById("cards-container");
